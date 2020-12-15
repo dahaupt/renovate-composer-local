@@ -1,0 +1,30 @@
+{
+  "name": "dahaupt/renovate-composer-local",
+  "description": "Test package to demonstrate updating of local composer packages with Renovate.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daniel Haupt",
+      "email": "mail@danielhaupt.de"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "path",
+      "url": "./packages/*"
+    }
+  ],
+  "require": {
+    "dahaupt/local-package": "@dev",
+    "typo3/cms-backend": "10.4.7",
+    "typo3/cms-core": "10.4.7",
+    "typo3/cms-extbase": "10.4.7",
+    "typo3/cms-extensionmanager": "10.4.7",
+    "typo3/cms-filelist": "10.4.7",
+    "typo3/cms-fluid": "10.4.7",
+    "typo3/cms-frontend": "10.4.7",
+    "typo3/cms-install": "10.4.7",
+    "typo3/cms-recordlist": "10.4.7"
+  }
+}
