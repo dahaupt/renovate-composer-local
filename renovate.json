@@ -1,0 +1,15 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:base"
+  ],
+  "packageRules": [
+    {
+      "groupName": "TYPO3",
+      "packagePatterns": [
+        "^typo3/"
+      ]
+    }
+  ],
+  "rangeStrategy": "pin"
+}
