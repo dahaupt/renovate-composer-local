@@ -17,14 +17,14 @@
   ],
   "require": {
     "dahaupt/local-package": "@dev",
-    "typo3/cms-backend": "10.4.7",
-    "typo3/cms-core": "10.4.7",
-    "typo3/cms-extbase": "10.4.7",
-    "typo3/cms-extensionmanager": "10.4.7",
-    "typo3/cms-filelist": "10.4.7",
-    "typo3/cms-fluid": "10.4.7",
-    "typo3/cms-frontend": "10.4.7",
-    "typo3/cms-install": "10.4.7",
-    "typo3/cms-recordlist": "10.4.7"
+    "typo3/cms-backend": "10.4.37",
+    "typo3/cms-core": "10.4.37",
+    "typo3/cms-extbase": "10.4.37",
+    "typo3/cms-extensionmanager": "10.4.37",
+    "typo3/cms-filelist": "10.4.37",
+    "typo3/cms-fluid": "10.4.37",
+    "typo3/cms-frontend": "10.4.37",
+    "typo3/cms-install": "10.4.37",
+    "typo3/cms-recordlist": "10.4.37"
   }
 }
