@@ -2,7 +2,7 @@
   "name": "dahaupt/local-package",
   "description": "TYPO3 demo site package",
   "require": {
-    "typo3/cms-core": "10.4.7",
+    "typo3/cms-core": "10.4.37",
     "firebase/php-jwt": "5.1.0"
   }
 }
