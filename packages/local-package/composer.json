@@ -3,6 +3,6 @@
   "description": "TYPO3 demo site package",
   "require": {
     "typo3/cms-core": "10.4.7",
-    "firebase/php-jwt": "5.1.0"
+    "firebase/php-jwt": "6.10.0"
   }
 }
